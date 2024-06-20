@@ -1,0 +1,206 @@
+repo_name: rlfagan/app-bundle-samples
+report_id: 5ec36090e6325030e48511b57b7d0828
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-20T22:58:32+00:00'
+requested_by: keyboardsurfer
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: GLSL
+  description: A high-level C-style language
+  website_url: https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '28.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/InstantApps/urlless/app/build.gradle
+  detection_source: InstantApps/urlless/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-07-29 21:28:29.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/InstantApps/analytics/app/build.gradle
+  detection_source: InstantApps/analytics/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-07-29 21:28:29.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/DynamicCodeLoadingKotlin/app/build.gradle
+  detection_source: DynamicCodeLoadingKotlin/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-10-29 21:21:31.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '9.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/InstantApps/urlless/app/build.gradle
+  detection_source: InstantApps/urlless/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-07-29 21:28:29.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples
+  detection_source: Repo Metadata
+- name: com.github.bumptech.glide:glide
+  description: A fast and efficient image loading library for Android focused on smooth
+    scrolling
+  license: BSD-2-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/InstantApps/multi-feature-module/app/build.gradle
+  detection_source: InstantApps/multi-feature-module/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-07-29 21:28:29.000000000 Z
+- name: com.squareup.retrofit:retrofit
+  description: Type-safe HTTP client for Android and Java by Square, Inc
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/InstantApps/multi-feature-module/app/build.gradle
+  detection_source: InstantApps/multi-feature-module/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-07-29 21:28:29.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-reflect
+  description: Kotlin Full Reflection Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/DynamicCodeLoadingKotlin/app/build.gradle
+  detection_source: DynamicCodeLoadingKotlin/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-10-29 21:21:31.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib
+  description: Kotlin Standard Library for JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/DynamicFeatureNavigation/DSL/app/build.gradle
+  detection_source: DynamicFeatureNavigation/DSL/app/build.gradle
+  last_updated_by: Ben Weiss
+  last_updated_on: 2020-04-23 12:00:19.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/app-bundle-samples/blob/master/DynamicCodeLoadingKotlin/app/build.gradle
+  detection_source: DynamicCodeLoadingKotlin/app/build.gradle
+  last_updated_by: Jeremy Walker
+  last_updated_on: 2019-10-29 21:21:31.000000000 Z
